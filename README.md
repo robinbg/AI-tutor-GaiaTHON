@@ -26,9 +26,27 @@ The AI Learning Assistant is designed to assess and teach users about their chos
     streamlit run app.py
     ```
 
-## File Overview
+## Screenshots
 
-- `app.py`: Main application file containing the Streamlit interface and AI interaction logic.
+### 1. Home Screen
+![Home Screen](asset/屏幕截图_2024-10-01_000337.jpg)
+*Description: The home screen where users can enter the topic they want to learn about.*
+
+### 2. Knowledge Assessment
+![Knowledge Assessment](path/to/screenshot2.png)
+*Description: The AI asks targeted questions to assess the user's prerequisite knowledge.*
+
+### 3. Feedback and Guidance
+![Feedback and Guidance](path/to/screenshot3.png)
+*Description: The AI provides feedback on user responses and suggests a teaching strategy.*
+
+### 4. Teaching Steps
+![Teaching Steps](path/to/screenshot4.png)
+*Description: The AI guides users through learning steps with clear explanations and thought-provoking questions.*
+
+### 5. Personalized Learning
+![Personalized Learning](path/to/screenshot5.png)
+*Description: The AI adjusts the teaching language and style based on the user's preferences.*
 
 ## Usage
 
