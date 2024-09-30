@@ -28,25 +28,25 @@ The AI Learning Assistant is designed to assess and teach users about their chos
 
 ## Screenshots
 
-### 1. Home Screen
+### 1. First Question
 ![Home Screen](asset/shot1.jpg)
-*Description: The home screen where users can enter the topic they want to learn about.*
+*Description: After the user point out the topic of this conversation, the AI tutor will ask the first question.*
 
-### 2. Knowledge Assessment
+### 2. First Feedback
 ![Knowledge Assessment](asset/shot2.jpg)
-*Description: The AI asks targeted questions to assess the user's prerequisite knowledge.*
+*Description: After the user answer the first question, the AI tutor will feedback to the first answer and ask the second question.*
 
-### 3. Feedback and Guidance
+### 3. Second Feedback
 ![Feedback and Guidance](asset/shot3.jpg)
-*Description: The AI provides feedback on user responses and suggests a teaching strategy.*
+*Description: After the user answer the second question, the AI tutor will feedback to the second answer and ask the third question.*
 
-### 4. Teaching Steps
+### 4. Third Feedback 
 ![Teaching Steps](asset/shot4.jpg)
-*Description: The AI guides users through learning steps with clear explanations and thought-provoking questions.*
+*Description: After the user answer the third question, the AI tutor will feedback to the third answer and summarize the conversation so far.*
 
 ### 5. Personalized Learning
 ![Personalized Learning](asset/shot5.jpg)
-*Description: The AI adjusts the teaching language and style based on the user's preferences.*
+*Description: The AI adjusts the teaching language and style based on the user's preferences and the mastering of prerequisite knowledge.*
 
 ## Usage
 
