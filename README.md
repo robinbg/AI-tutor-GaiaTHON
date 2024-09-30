@@ -12,6 +12,7 @@ The AI Learning Assistant is designed to assess and teach users about their chos
 - **Knowledge Assessment**: The AI asks targeted questions to assess the user's prerequisite knowledge.
 - **Feedback and Guidance**: Provides feedback on user responses and suggests a teaching strategy.
 - **Teaching Steps**: Guides users through learning steps with clear explanations and thought-provoking questions.
+- **Personalized Learning**: Through three assessment questions, the AI not only gauges the user's knowledge level but also understands their teaching style preferences, allowing it to adjust the teaching language and style accordingly.
 
 ## How to Run
 
@@ -41,7 +42,10 @@ The AI Learning Assistant is designed to assess and teach users about their chos
 This project utilizes the following technologies:
 - [Streamlit](https://streamlit.io/): For building the web interface.
 - [Langchain OpenAI](https://github.com/langchain-ai/langchain): For AI model integration.
+- [Gaianet](https://gaianet.ai): For providing the base URL for the AI model.
 
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
+````
+
