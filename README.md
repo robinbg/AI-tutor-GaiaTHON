@@ -29,7 +29,7 @@ The AI Learning Assistant is designed to assess and teach users about their chos
 ## Screenshots
 
 ### 1. Home Screen
-![Home Screen](asset/屏幕截图_2024-10-01_000337.jpg)
+![Home Screen](asset/shot1.jpg)
 *Description: The home screen where users can enter the topic they want to learn about.*
 
 ### 2. Knowledge Assessment
